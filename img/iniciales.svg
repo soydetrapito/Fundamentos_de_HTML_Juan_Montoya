@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="iniciales.svg">
+  <defs
+     id="defs2">
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient5972"
+       gradientUnits="userSpaceOnUse"
+       x="39.309517"
+       y="140.13988"
+       gradientTransform="matrix(0.61732283,0,0,0.5751455,75.971432,-18.172241)">
+      <meshrow
+         id="meshrow5974">
+        <meshpatch
+           id="meshpatch5976">
+          <stop
+             path="c 0,33.6088  -25.3839,60.8542  -56.6964,60.8542"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop5978" />
+          <stop
+             path="l -3.55271e-015,-60.8542"
+             style="stop-color:#000000;stop-opacity:1"
+             id="stop5980" />
+          <stop
+             path="l 0,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop5982" />
+          <stop
+             path="l 56.6964,0"
+             style="stop-color:#000000;stop-opacity:1"
+             id="stop5984" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch5986">
+          <stop
+             path="c -31.3126,0  -56.6964,-27.2453  -56.6964,-60.8542"
+             id="stop5988" />
+          <stop
+             path="l 56.6964,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop5990" />
+          <stop
+             path="l 0,0"
+             style="stop-color:#000000;stop-opacity:1"
+             id="stop5992" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch5994">
+          <stop
+             path="c 0,-33.6088  25.3839,-60.8542  56.6964,-60.8542"
+             id="stop5996" />
+          <stop
+             path="l 1.06581e-014,60.8542"
+             style="stop-color:#000000;stop-opacity:1"
+             id="stop5998" />
+          <stop
+             path="l 0,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop6000" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch6002">
+          <stop
+             path="c 31.3126,0  56.6964,27.2453  56.6964,60.8542"
+             id="stop6004" />
+          <stop
+             path="l -56.6964,2.84217e-014"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop6006" />
+          <stop
+             path="l 0,0"
+             style="stop-color:#000000;stop-opacity:1"
+             id="stop6008" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-64.285714"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer4"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="838"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Capa 4">
+    <rect
+       style="fill:url(#meshgradient5972);fill-opacity:1;stroke-width:0.1576549"
+       id="rect5970"
+       width="70"
+       height="70"
+       x="30.238092"
+       y="27.428576" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Capa 3">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:50.79999924px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#fc0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="52.160717"
+       y="103.47618"
+       id="text3729"><tspan
+         sodipodi:role="line"
+         id="tspan3727"
+         x="52.160717"
+         y="103.47618"
+         style="fill:#fc0000;fill-opacity:1;stroke-width:0.26458332">M</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Capa 2">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:50.79999924px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="41.577374"
+       y="80.041672"
+       id="text3725"><tspan
+         sodipodi:role="line"
+         id="tspan3723"
+         x="41.577374"
+         y="80.041672"
+         style="fill:#0000ff;fill-opacity:1;stroke-width:0.26458332">D</tspan></text>
+  </g>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3699"
+       style="font-style:normal;font-weight:normal;font-size:85.33333441px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion3701"
+         style="font-size:85.33333441px;"><rect
+           id="rect3703"
+           width="565.71429"
+           height="580"
+           x="125.71429"
+           y="293.94824"
+           style="font-size:85.33333441px;" /></flowRegion><flowPara
+         id="flowPara3705" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3711"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion3713"><rect
+           id="rect3715"
+           width="260"
+           height="465.71429"
+           x="200"
+           y="296.80539" /></flowRegion><flowPara
+         id="flowPara3717"></flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:50.79999924px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="46.869061"
+       y="55.851177"
+       id="text3721"><tspan
+         sodipodi:role="line"
+         id="tspan3719"
+         x="46.869061"
+         y="55.851177"
+         style="fill:#ffff00;stroke-width:0.26458332">J</tspan></text>
+  </g>
+</svg>
